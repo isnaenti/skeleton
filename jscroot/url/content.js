@@ -30,6 +30,14 @@ export function getContentURL(){
             return url.template.content+"saved.html";
         case "logout":
             return url.template.content+"logout.html";
+        case "tugas/chapter1":
+            return url.template.content+"geojson/chapter1/index.html";
+        case "tugas/chapter2":
+            return url.template.content+"geojson/chapter2/index.html";
+        case "tugas/chapter3":
+            return url.template.content+"geojson/chapter3/index.html";
+        case "tugas/chapter4":
+            return url.template.content+"geojson/chapter4/index.html";
         case "map":
             return url.template.content+"map.html";
         default:
@@ -67,6 +75,14 @@ export function getURLContentJS(){
             return url.view.content+"saved.js";
         case "logout":
             return url.view.content+"logout.js";
+        case "tugas/chapter1":
+            return url.template.content+"geojson/chapter1/script.js";
+        case "tugas/chapter2":
+            return url.template.content+"geojson/chapter2/js/script.js";
+        case "tugas/chapter3":
+            return url.template.content+"geojson/chapter3/js/script.js";
+        case "tugas/chapter4":
+            return url.template.content+"geojson/chapter4/js/script.js";
         case "map":
             return url.view.content+"map.js";
         default:

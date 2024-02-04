@@ -1,0 +1,4715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMP Negeri 9 Purwokerto"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24056606248752,
+          -7.403188195509557
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantor Kelurahan Sumampir"
+      },
+      "geometry": {
+        "coordinates": [
+          109.23989413306805,
+          -7.403621971088654
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dwaryan's hause"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2416332671379,
+          -7.4041559581538365
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Purwokerto City Walk"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24367232948356,
+          -7.40359438497525
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Nurul Ulum"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24491596143872,
+          -7.403223092375455
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24559830581666,
+          -7.404243532870041
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fakultas Ekonomi Universitas Jendral Sudirman"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24699051733324,
+          -7.403294026101264
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung D Fakultas Ekonomi Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24754079886043,
+          -7.4041343944397084
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Roedhiro"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24664386437047,
+          -7.405138453469675
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Kuliah FH Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24736473317068,
+          -7.4050402289044115
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanggar Kegiatan Belajar Purwokerto"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24561181712056,
+          -7.405987139409092
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toko Sejahtera"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24516899181111,
+          -7.406964516177965
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung administrasi Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2461241143256,
+          -7.404151311516358
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung A Fakultas Ekonomu Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24667994945366,
+          -7.404210977542391
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung C Fakultas Ekonomi Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24698651831329,
+          -7.4040376619173855
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung B Fakultas Ekonomi Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24696646240602,
+          -7.404358721955887
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung G Fakultas Ekonomi Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24644787396181,
+          -7.4036739830078915
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LPTSI Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24614990048957,
+          -7.403655230787123
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Layanan pengadaan secara elektronis Universitas Jendral Soedirman"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24639057136915,
+          -7.403288710316033
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UPT Perpustakaan Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24564563769275,
+          -7.403129600559367
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taman Kupu kupu Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24535042363902,
+          -7.402777293769603
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitas Terbuka"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24688928911542,
+          -7.402726828531442
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UKM Fisip Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24681479574775,
+          -7.401544867461752
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Basket"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2470124896845,
+          -7.400915244581583
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung Kuliah Fisip Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24591801020478,
+          -7.401645447908919
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graha Widyatama Parking"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24529876465482,
+          -7.401199782246465
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jendral Sodirman University Convention Center"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24603689983036,
+          -7.401166934702687
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KFC"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24554181575462,
+          -7.399803884565074
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pincuk Coklat"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24552395189846,
+          -7.399983566051063
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasa Pengiriman Paket \"Pahala Kencana\""
+      },
+      "geometry": {
+        "coordinates": [
+          109.24518964257669,
+          -7.399988627499724
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Bulu Tangkis "
+      },
+      "geometry": {
+        "coordinates": [
+          109.24575618203818,
+          -7.399492605199583
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Perumahan Prabu Bima"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24602669187078,
+          -7.400059487782244
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perumahan Pabuaran Indah"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24691733232675,
+          -7.400418854780369
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Grendeng"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24874930072906,
+          -7.401741268809019
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SDN Grendeng"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24925329086494,
+          -7.402041432655338
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "manjabal"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24518882671202,
+          -7.397734889864211
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumbung Coffeshop and Resto"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24533385789852,
+          -7.398051302499624
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kost Putri Kenanga"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24469267283172,
+          -7.397821690290911
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bee Cool Salon"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24485551486526,
+          -7.397783841880781
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glows Photography"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24521374292635,
+          -7.396695676645663
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah Makan Bu Tina"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24518066563837,
+          -7.396498864372177
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wisma Sinatrya"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24464025056886,
+          -7.397029161121779
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BSI"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24570046144305,
+          -7.398929279759898
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Tenis unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2488322496626,
+          -7.4010582057835705
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QUATRO"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25044574056051,
+          -7.40221941654714
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOHO COLECTION"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25140118489816,
+          -7.404555189030191
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kantor Kelurahan Karangwangkal"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25209592967713,
+          -7.404806611045757
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung UKM Unsoed"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2520786486865,
+          -7.406560733578914
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Masjid Fatimatuzzahroh"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25050784568901,
+          -7.405811698475873
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jendral Soedirman University"
+      },
+      "geometry": {
+        "coordinates": [
+          109.25310895443505,
+          -7.408846684330456
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susilo Soedirman Stadium"
+      },
+      "geometry": {
+        "coordinates": [
+          109.2506091838926,
+          -7.408263811190054
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wijayakusuma Golf Course"
+      },
+      "geometry": {
+        "coordinates": [
+          109.24705297436685,
+          -7.414040483550735
+        ],
+        "type": "Point"
+      },
+      "id": 51
+    },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Riyanto"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23199425090155,
+                -7.397361742077777
+              ],
+              [
+                109.23392918350027,
+                -7.398112845284473
+              ],
+              [
+                109.23640427669159,
+                -7.399021008365693
+              ],
+              [
+                109.23805267968976,
+                -7.399403906064791
+              ],
+              [
+                109.24008720119491,
+                -7.3994333597714075
+              ],
+              [
+                109.24075052450803,
+                -7.399585537229669
+              ],
+              [
+                109.2414435488642,
+                -7.399791713055606
+              ],
+              [
+                109.24206728113904,
+                -7.39988498818137
+              ],
+              [
+                109.24503243535219,
+                -7.400145162245352
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 52
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan HR Bunyamin"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24317830571493,
+                -7.387922179529369
+              ],
+              [
+                109.24405019557884,
+                -7.390815242358073
+              ],
+              [
+                109.24478928695453,
+                -7.393771982779754
+              ],
+              [
+                109.24498766956299,
+                -7.398434414934982
+              ],
+              [
+                109.2451856763455,
+                -7.402430289492358
+              ],
+              [
+                109.24539853403445,
+                -7.4065014169760985
+              ],
+              [
+                109.24553218866015,
+                -7.409613631100271
+              ],
+              [
+                109.24533418170034,
+                -7.411361173869423
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 53
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Gunung Lawu"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24600550551077,
+                -7.409641504339646
+              ],
+              [
+                109.24584396218359,
+                -7.406723619659019
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 54
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Gunung Muria"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24545193918783,
+                -7.406743058712777
+              ],
+              [
+                109.24698374161574,
+                -7.406597164009781
+              ],
+              [
+                109.2490059587114,
+                -7.406574282156228
+              ],
+              [
+                109.25211284052455,
+                -7.405807625645181
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 55
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Gunung Srandil"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.25279239423963,
+                -7.4071078765301905
+              ],
+              [
+                109.25422323040465,
+                -7.406744570325301
+              ],
+              [
+                109.25553290705653,
+                -7.406890464978076
+              ],
+              [
+                109.25567137291358,
+                -7.4069619869342205
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 56
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Dokter Soeparno"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.25039621456267,
+                -7.402215022654488
+              ],
+              [
+                109.25062987934024,
+                -7.403270623141381
+              ],
+              [
+                109.25149818982823,
+                -7.4045035844001745
+              ],
+              [
+                109.25174050609542,
+                -7.404872611661332
+              ],
+              [
+                109.2533527179246,
+                -7.408524884775474
+              ],
+              [
+                109.25390658639469,
+                -7.410109689643363
+              ],
+              [
+                109.25416910491572,
+                -7.417166878085482
+              ],
+              [
+                109.25471240540696,
+                -7.421791276357794
+              ],
+              [
+                109.25485937111301,
+                -7.422932956314824
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 57
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Haji Madrani"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24963851823907,
+                -7.402375251917803
+              ],
+              [
+                109.2496591172291,
+                -7.402879125401753
+              ],
+              [
+                109.25007796337479,
+                -7.40509888551378
+              ],
+              [
+                109.2502221563085,
+                -7.406167907101889
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 58
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Cendrawasih"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24825838586264,
+                -7.402307160844657
+              ],
+              [
+                109.24821032155137,
+                -7.405323584515827
+              ],
+              [
+                109.24805239595707,
+                -7.405473383799688
+              ],
+              [
+                109.24805926228646,
+                -7.406127052803058
+              ],
+              [
+                109.24812105925838,
+                -7.40631770608006
+              ],
+              [
+                109.24812105925838,
+                -7.406494741191921
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 59
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kampus"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24527718626848,
+                -7.402691697851154
+              ],
+              [
+                109.24770100084135,
+                -7.402228678798963
+              ],
+              [
+                109.24967163761778,
+                -7.4023240062906694
+              ],
+              [
+                109.2507839831161,
+                -7.4020856875232255
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 60
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Gunung Calanggung"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24842285122082,
+                -7.393350146877864
+              ],
+              [
+                109.24894125915375,
+                -7.394323867736006
+              ],
+              [
+                109.2492639756436,
+                -7.39510692362299
+              ],
+              [
+                109.24974461876116,
+                -7.396781987872771
+              ],
+              [
+                109.24993000935439,
+                -7.39740843405481
+              ],
+              [
+                109.25049991476328,
+                -7.397932740733296
+              ],
+              [
+                109.25085009360419,
+                -7.398930286047985
+              ],
+              [
+                109.25093935726574,
+                -7.39977461942361
+              ],
+              [
+                109.25082949598101,
+                -7.4005815023880785
+              ],
+              [
+                109.25072993419207,
+                -7.401521161700742
+              ],
+              [
+                109.25077799770077,
+                -7.401912686448014
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 61
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Serayu"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23506652638423,
+                -7.398609638211255
+              ],
+              [
+                109.23579952360086,
+                -7.404261577537085
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 62
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kalisari"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23651756026186,
+                -7.400345277165869
+              ],
+              [
+                109.23636796899393,
+                -7.401309520113045
+              ],
+              [
+                109.23663723327593,
+                -7.4034605160142775
+              ],
+              [
+                109.23654747851577,
+                -7.405255476975796
+              ],
+              [
+                109.23624829597804,
+                -7.407955321849116
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 63
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Jatisari"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.2406119643536,
+                -7.399675565927922
+              ],
+              [
+                109.2393105201129,
+                -7.406677416559958
+              ],
+              [
+                109.23883182805315,
+                -7.409332750062148
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 64
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Brigadir Jendral Encung"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23120166601399,
+                -7.407572660933823
+              ],
+              [
+                109.23619571322234,
+                -7.407990935021104
+              ],
+              [
+                109.2388277110756,
+                -7.4087270964514715
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 65
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Karang Kobar"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23876070263447,
+                -7.409589107320954
+              ],
+              [
+                109.23759654973935,
+                -7.414441040112209
+              ],
+              [
+                109.23737721658483,
+                -7.416063916046369
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 66
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Gereja"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23402404369574,
+                -7.4159963925121986
+              ],
+              [
+                109.23386579163252,
+                -7.417241692832889
+              ],
+              [
+                109.23302348100157,
+                -7.420425799289717
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 67
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Dokter Angka"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23065595200728,
+                -7.416190011311912
+              ],
+              [
+                109.23407323514823,
+                -7.41596589110658
+              ],
+              [
+                109.23742723527073,
+                -7.416118292858997
+              ],
+              [
+                109.24345490988134,
+                -7.416763769165115
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 68
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Bambang Suprapto"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24402036358066,
+                -7.423230491660007
+              ],
+              [
+                109.24472551724483,
+                -7.42337392623655
+              ],
+              [
+                109.24562956040597,
+                -7.4234277141900264
+              ],
+              [
+                109.25148776007768,
+                -7.423185668344956
+              ],
+              [
+                109.25479656908243,
+                -7.422988446976717
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 69
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Martadireja"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.25489702754646,
+                -7.422948544335583
+              ],
+              [
+                109.26098123800904,
+                -7.419837793460303
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 70
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Senopati"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.26295063096143,
+                -7.416063274170426
+              ],
+              [
+                109.2630883573944,
+                -7.415892556195928
+              ],
+              [
+                109.26389995958789,
+                -7.415697449857348
+              ],
+              [
+                109.26450497213261,
+                -7.415277970938931
+              ],
+              [
+                109.26534116833164,
+                -7.4148877576318455
+              ],
+              [
+                109.26879635233502,
+                -7.414007034162097
+              ],
+              [
+                109.2698294915088,
+                -7.413329038761347
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 71
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Raya Dukuhwaluh"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.26989699182798,
+                -7.413268332004918
+              ],
+              [
+                109.27363528072055,
+                -7.410322199541454
+              ],
+              [
+                109.27711544112799,
+                -7.407950700301797
+              ],
+              [
+                109.27833530127731,
+                -7.407136117798558
+              ],
+              [
+                109.2802290397297,
+                -7.405619133588942
+              ],
+              [
+                109.2836476648294,
+                -7.403546605216505
+              ],
+              [
+                109.28432154058999,
+                -7.402863713519736
+              ],
+              [
+                109.28582701784359,
+                -7.402342108155722
+              ],
+              [
+                109.29098125492811,
+                -7.401077069296235
+              ],
+              [
+                109.29337415676912,
+                -7.400603735944188
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 72
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan raya tambaksari"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.26474919303632,
+                -7.392032665060057
+              ],
+              [
+                109.26678107870902,
+                -7.3913427038436765
+              ],
+              [
+                109.26865484914998,
+                -7.390825236336454
+              ],
+              [
+                109.2704179250652,
+                -7.390103911211995
+              ],
+              [
+                109.27116110889637,
+                -7.390080391953077
+              ],
+              [
+                109.27251306395453,
+                -7.3894845137868685
+              ],
+              [
+                109.27489532027141,
+                -7.38890184759461
+              ],
+              [
+                109.27661095914596,
+                -7.388611748340281
+              ],
+              [
+                109.27766247974586,
+                -7.388141316711327
+              ],
+              [
+                109.27868375199859,
+                -7.387774859347289
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 73
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Ringin Tirto"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.2388807457578,
+                -7.409511402537802
+              ],
+              [
+                109.24139393359735,
+                -7.40980460269202
+              ],
+              [
+                109.2435173757288,
+                -7.410311038861735
+              ],
+              [
+                109.24531826968712,
+                -7.410557593101956
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 74
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Gunung Singgalang"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24248924919482,
+                -7.410137786149107
+              ],
+              [
+                109.24242877141279,
+                -7.411363892842061
+              ],
+              [
+                109.24287899490281,
+                -7.411517155938526
+              ],
+              [
+                109.24519730988749,
+                -7.4117170642455505
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 75
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Cemara Agung"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24343627292984,
+                -7.415582556689998
+              ],
+              [
+                109.2447802236469,
+                -7.415715827673793
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 76
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Over ste Isdiman"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24468733145778,
+                -7.417039572041176
+              ],
+              [
+                109.24397026493773,
+                -7.423112424045996
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 77
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kolonel Sugiono"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.2348951147834,
+                -7.426404440726586
+              ],
+              [
+                109.23488208896629,
+                -7.4268758946417535
+              ],
+              [
+                109.23604789958534,
+                -7.427780051419333
+              ],
+              [
+                109.23744166200106,
+                -7.428174004862669
+              ],
+              [
+                109.24058088388904,
+                -7.429452736554964
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 78
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Penjara"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22898704736207,
+                -7.425940251061434
+              ],
+              [
+                109.22919546043397,
+                -7.4249133828510026
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 79
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Brigadir Jendral slamet riyadi"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22661479095638,
+                -7.425584272551745
+              ],
+              [
+                109.22901154127834,
+                -7.426023435938163
+              ],
+              [
+                109.22935021251942,
+                -7.426126768436021
+              ],
+              [
+                109.23088725892148,
+                -7.426230100909606
+              ],
+              [
+                109.23213773735085,
+                -7.426294683692987
+              ],
+              [
+                109.23222891807046,
+                -7.425616563992449
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 80
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Masjid"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22954059685469,
+                -7.424807755274543
+              ],
+              [
+                109.22961290269274,
+                -7.422103011900617
+              ],
+              [
+                109.22983909169841,
+                -7.419837062974679
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 81
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jlan Kesatrian"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23733753879134,
+                -7.416326817421535
+              ],
+              [
+                109.2361677956784,
+                -7.421225157880571
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 82
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Pekih"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22787620528698,
+                -7.422691135237301
+              ],
+              [
+                109.2295110261316,
+                -7.423159303602574
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 83
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Jendral Gatot Subroto"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22343154405905,
+                -7.417490816065268
+              ],
+              [
+                109.22684211858103,
+                -7.418986175730055
+              ],
+              [
+                109.22990316339212,
+                -7.419789215495044
+              ],
+              [
+                109.23220741518634,
+                -7.420306300356188
+              ],
+              [
+                109.23745717260289,
+                -7.4216339521247505
+              ],
+              [
+                109.2438273280822,
+                -7.423213159135059
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 84
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Adyaksa"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.2375276470986,
+                -7.423003530816885
+              ],
+              [
+                109.23855645676917,
+                -7.423241108687321
+              ],
+              [
+                109.23869034295939,
+                -7.423366885154124
+              ],
+              [
+                109.24054360969211,
+                -7.42377915221212
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 85
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Merdeka"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.2376403957536,
+                -7.421843588558829
+              ],
+              [
+                109.23702733793709,
+                -7.425833492756993
+              ],
+              [
+                109.23673842389042,
+                -7.426755847164699
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 86
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kapten Pierre Tendean"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24100002105735,
+                -7.423384006385049
+              ],
+              [
+                109.2404593268472,
+                -7.427077553986294
+              ],
+              [
+                109.24051082153414,
+                -7.427554138513273
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 87
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kolonel Sugiri"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23513369913223,
+                -7.421117201632995
+              ],
+              [
+                109.23489326569853,
+                -7.422591064989874
+              ],
+              [
+                109.23506812637652,
+                -7.423819280681229
+              ],
+              [
+                109.23503898293166,
+                -7.424960795718576
+              ],
+              [
+                109.23494426611353,
+                -7.426217905621812
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 88
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Bayangkara"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23663405499832,
+                -7.421505271130016
+              ],
+              [
+                109.23624194120657,
+                -7.422512690457822
+              ],
+              [
+                109.23626867623705,
+                -7.4230163992552605
+              ],
+              [
+                109.2365627615809,
+                -7.423422900672307
+              ],
+              [
+                109.23731134245787,
+                -7.423608477280524
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 89
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan RA. Wiratmaja"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22751320513754,
+                -7.416980844107229
+              ],
+              [
+                109.22664877246035,
+                -7.420241726586852
+              ],
+              [
+                109.22585562620287,
+                -7.423997456097865
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 90
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Stasiun"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22223750838657,
+                -7.420471503189319
+              ],
+              [
+                109.22233553683452,
+                -7.421611480198209
+              ],
+              [
+                109.2225583287609,
+                -7.423564457199646
+              ],
+              [
+                109.22264744987456,
+                -7.4237235204489735
+              ],
+              [
+                109.22569524344351,
+                -7.424121184243134
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 91
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Pemuda"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22229756711016,
+                -7.420249037858383
+              ],
+              [
+                109.22235902568735,
+                -7.41923735348449
+              ],
+              [
+                109.22261746432247,
+                -7.419034100889434
+              ],
+              [
+                109.22477409018165,
+                -7.418132718683665
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 92
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kober"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22251223782177,
+                -7.420258399869468
+              ],
+              [
+                109.22275179896155,
+                -7.415149770077946
+              ],
+              [
+                109.22276962231592,
+                -7.414283728586284
+              ],
+              [
+                109.2235918074395,
+                -7.412039651881415
+              ],
+              [
+                109.22459882695165,
+                -7.409512202051829
+              ],
+              [
+                109.22492507055176,
+                -7.408569184854542
+              ],
+              [
+                109.22470227982683,
+                -7.407658946082748
+              ],
+              [
+                109.22389131721064,
+                -7.406059391937674
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 93
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Ahmad Yani"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23106707404577,
+                -7.4076745865090174
+              ],
+              [
+                109.23054389713025,
+                -7.416096528634355
+              ],
+              [
+                109.2304043809583,
+                -7.418016092080535
+              ],
+              [
+                109.22993352173472,
+                -7.419572484066478
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 94
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Kenanga"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.23471481552866,
+                -7.387712560833165
+              ],
+              [
+                109.23486902406148,
+                -7.389165378349475
+              ],
+              [
+                109.23589708094846,
+                -7.393243437078397
+              ],
+              [
+                109.23659101934726,
+                -7.396072568194668
+              ],
+              [
+                109.23635970654868,
+                -7.398901681177435
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 95
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Karanggitung"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.24793482644179,
+                -7.375293846185599
+              ],
+              [
+                109.24793482644179,
+                -7.376925125369453
+              ],
+              [
+                109.24950261319464,
+                -7.3836540884275905
+              ],
+              [
+                109.2502222530158,
+                -7.388038054724689
+              ],
+              [
+                109.25112180390272,
+                -7.392141616625153
+              ],
+              [
+                109.25220126363291,
+                -7.396117697546259
+              ],
+              [
+                109.2525096807002,
+                -7.396984274532684
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 96
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Karang Tengah Wetan"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.26062770228322,
+                -7.356909410504699
+              ],
+              [
+                109.26529419527623,
+                -7.357558964728682
+              ],
+              [
+                109.27495465445281,
+                -7.359426427826406
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 97
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Watusari"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22895760705899,
+                -7.399039837236629
+              ],
+              [
+                109.2296699355187,
+                -7.3953928416430585
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 98
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Makam"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22734198692962,
+                -7.39928625785312
+              ],
+              [
+                109.22701067136819,
+                -7.399310899599243
+              ],
+              [
+                109.22704380292464,
+                -7.399935156701318
+              ],
+              [
+                109.2269692569235,
+                -7.400066579136762
+              ],
+              [
+                109.22700238848006,
+                -7.400296568304441
+              ],
+              [
+                109.22711834892596,
+                -7.400395135053728
+              ],
+              [
+                109.22808744694578,
+                -7.400198001532161
+              ],
+              [
+                109.22905654496572,
+                -7.400198001532161
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 99
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Watumas"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22897177016057,
+                -7.3991902113043295
+              ],
+              [
+                109.22913101583413,
+                -7.400222327692219
+              ],
+              [
+                109.22918220120158,
+                -7.401468759213358
+              ],
+              [
+                109.22916513916437,
+                -7.4025798294853615
+              ],
+              [
+                109.22918788421163,
+                -7.403668329573321
+              ],
+              [
+                109.2291139487204,
+                -7.404514318200299
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 100
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jl. Srempeng Wetan 3"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.21813783751918,
+                -7.411574175780302
+              ],
+              [
+                109.2182174603567,
+                -7.411686972335218
+              ],
+              [
+                109.2207142050213,
+                -7.411529057151654
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 101
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jl. Sempeng Kulon 1"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.21772266129881,
+                -7.412408869595922
+              ],
+              [
+                109.22008290967341,
+                -7.41220583611036
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 102
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Jendral Sudirman"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.22585967680158,
+                -7.424122581300111
+              ],
+              [
+                109.22842466961401,
+                -7.4246865476986414
+              ],
+              [
+                109.2302332545994,
+                -7.4250587734372715
+              ],
+              [
+                109.23218970144467,
+                -7.425504306004342
+              ],
+              [
+                109.2355793635956,
+                -7.426513804422697
+              ],
+              [
+                109.23679076818235,
+                -7.4268465428752535
+              ],
+              [
+                109.24041647100267,
+                -7.427872953721035
+              ],
+              [
+                109.24665550660637,
+                -7.427726321615012
+              ],
+              [
+                109.24874528630437,
+                -7.427692483559667
+              ],
+              [
+                109.25107709795066,
+                -7.427607889224305
+              ],
+              [
+                109.25434733498099,
+                -7.427590969905012
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 103
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Jalan Letnan Jendral MT. Haryono"
+          },
+          "geometry": {
+            "coordinates": [
+              [
+                109.25126282184698,
+                -7.423251587555384
+              ],
+              [
+                109.25122524507941,
+                -7.425580445720044
+              ],
+              [
+                109.25123777044888,
+                -7.426126949841617
+              ],
+              [
+                109.25120645647667,
+                -7.427226165243681
+              ],
+              [
+                109.25117514250445,
+                -7.427524257081927
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": 104
+        },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Satria Indoor Badminton Arena"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24980335799603,
+                    -7.413981039496747
+                  ],
+                  [
+                    109.24972456213084,
+                    -7.4144072417008715
+                  ],
+                  [
+                    109.2497388886519,
+                    -7.414506688822627
+                  ],
+                  [
+                    109.25041223513682,
+                    -7.414599032558328
+                  ],
+                  [
+                    109.25049819426334,
+                    -7.414485378726781
+                  ],
+                  [
+                    109.25054117382501,
+                    -7.414236760868732
+                  ],
+                  [
+                    109.25049819426334,
+                    -7.4140875900866945
+                  ],
+                  [
+                    109.24980335799603,
+                    -7.413981039496747
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 105
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "PT Safemore Duta Corpora"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24453832850281,
+                    -7.415936066974439
+                  ],
+                  [
+                    109.24452042035188,
+                    -7.416042617091151
+                  ],
+                  [
+                    109.24466368556114,
+                    -7.4160532721019194
+                  ],
+                  [
+                    109.24466368556114,
+                    -7.415943170316396
+                  ],
+                  [
+                    109.24453832850281,
+                    -7.415936066974439
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 106
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Klinik Utama Purwokerto Katarak Center"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24325571899556,
+                    -7.4172393379337365
+                  ],
+                  [
+                    109.24325213736392,
+                    -7.417356542714302
+                  ],
+                  [
+                    109.24335600464138,
+                    -7.41738140433003
+                  ],
+                  [
+                    109.24335242301157,
+                    -7.4172393379337365
+                  ],
+                  [
+                    109.24325571899556,
+                    -7.4172393379337365
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 107
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Atrium Square"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2437356574464,
+                    -7.416333663583245
+                  ],
+                  [
+                    109.24369984114446,
+                    -7.41655386692976
+                  ],
+                  [
+                    109.2439863715648,
+                    -7.416614245247743
+                  ],
+                  [
+                    109.2439792083033,
+                    -7.416703036876967
+                  ],
+                  [
+                    109.24453436099128,
+                    -7.416802483480083
+                  ],
+                  [
+                    109.24458808544415,
+                    -7.416482833604249
+                  ],
+                  [
+                    109.2437356574464,
+                    -7.416333663583245
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 108
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Puskesmas Purwokerto Utara 1"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24381087168172,
+                    -7.416045978398827
+                  ],
+                  [
+                    109.24377863700965,
+                    -7.416294595236053
+                  ],
+                  [
+                    109.24396846341205,
+                    -7.416305250239844
+                  ],
+                  [
+                    109.24398995319456,
+                    -7.416060185079132
+                  ],
+                  [
+                    109.24381087168172,
+                    -7.416045978398827
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 109
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Indomaret"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24467209907198,
+                    -7.414249017490874
+                  ],
+                  [
+                    109.24466851744211,
+                    -7.414344912964097
+                  ],
+                  [
+                    109.24467568070179,
+                    -7.414383981484335
+                  ],
+                  [
+                    109.24485834384461,
+                    -7.414387533168309
+                  ],
+                  [
+                    109.24485834384461,
+                    -7.414273879282206
+                  ],
+                  [
+                    109.24467209907198,
+                    -7.414249017490874
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 110
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "PDAM Banyumas"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24807475714579,
+                    -7.416658143777681
+                  ],
+                  [
+                    109.2480353592124,
+                    -7.416889001952342
+                  ],
+                  [
+                    109.24814997138117,
+                    -7.416910311930948
+                  ],
+                  [
+                    109.24814997138117,
+                    -7.416938725235298
+                  ],
+                  [
+                    109.2482968182203,
+                    -7.4169564835491
+                  ],
+                  [
+                    109.24830398148174,
+                    -7.416910311930948
+                  ],
+                  [
+                    109.24840068549781,
+                    -7.4169209669207135
+                  ],
+                  [
+                    109.24841143038918,
+                    -7.416675902102838
+                  ],
+                  [
+                    109.24807475714579,
+                    -7.416658143777681
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 111
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Satria Futsal and Basketball Arena"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2492853481678,
+                    -7.416001085232509
+                  ],
+                  [
+                    109.24922446045349,
+                    -7.41652673214638
+                  ],
+                  [
+                    109.24964351119183,
+                    -7.416583558802756
+                  ],
+                  [
+                    109.24971514379729,
+                    -7.416061463626306
+                  ],
+                  [
+                    109.2492853481678,
+                    -7.416001085232509
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 112
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "PT Taspen"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2486657261357,
+                    -7.416626178789329
+                  ],
+                  [
+                    109.24865856287607,
+                    -7.416683005432901
+                  ],
+                  [
+                    109.24859409353189,
+                    -7.4166723504373095
+                  ],
+                  [
+                    109.24856902211951,
+                    -7.416935173572796
+                  ],
+                  [
+                    109.24867647102701,
+                    -7.416942276898652
+                  ],
+                  [
+                    109.24867647102701,
+                    -7.416981345188361
+                  ],
+                  [
+                    109.2487660117834,
+                    -7.416988448513479
+                  ],
+                  [
+                    109.24877675667295,
+                    -7.4169564835491
+                  ],
+                  [
+                    109.24887346069079,
+                    -7.41696358687463
+                  ],
+                  [
+                    109.2488949504716,
+                    -7.416700763756992
+                  ],
+                  [
+                    109.24883764438715,
+                    -7.416693660427299
+                  ],
+                  [
+                    109.24883764438715,
+                    -7.4166474887815355
+                  ],
+                  [
+                    109.2486657261357,
+                    -7.416626178789329
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 113
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Bazar Kuliner"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25117721085508,
+                    -7.417551029600844
+                  ],
+                  [
+                    109.25119511900607,
+                    -7.417806748898968
+                  ],
+                  [
+                    109.2513097311749,
+                    -7.417824507177812
+                  ],
+                  [
+                    109.2513204760644,
+                    -7.4175545812584005
+                  ],
+                  [
+                    109.25117721085508,
+                    -7.417551029600844
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 114
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Lombok Abang"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25258241135663,
+                    -7.417229124874908
+                  ],
+                  [
+                    109.2525573399443,
+                    -7.417396052889359
+                  ],
+                  [
+                    109.25284387036459,
+                    -7.417438672798113
+                  ],
+                  [
+                    109.25285103362427,
+                    -7.41726464147925
+                  ],
+                  [
+                    109.25258241135663,
+                    -7.417229124874908
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 115
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Gule Kepala Ikan Mas Agus"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25290833970865,
+                    -7.417282399779964
+                  ],
+                  [
+                    109.25289401318759,
+                    -7.417420914502841
+                  ],
+                  [
+                    109.25316979871661,
+                    -7.417449327774207
+                  ],
+                  [
+                    109.25317338034648,
+                    -7.417314364720596
+                  ],
+                  [
+                    109.25290833970865,
+                    -7.417282399779964
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 116
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Ayam Tulang Lunak Kratonan"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2529047580789,
+                    -7.417882629930986
+                  ],
+                  [
+                    109.25288326829627,
+                    -7.417925249792646
+                  ],
+                  [
+                    109.25286894177691,
+                    -7.417879078276087
+                  ],
+                  [
+                    109.25277940102058,
+                    -7.4178968365520035
+                  ],
+                  [
+                    109.25278298265033,
+                    -7.417935904757002
+                  ],
+                  [
+                    109.25274358471688,
+                    -7.41795366303144
+                  ],
+                  [
+                    109.25274716634846,
+                    -7.4179998345401685
+                  ],
+                  [
+                    109.25315905382536,
+                    -7.4180246961195735
+                  ],
+                  [
+                    109.25314472730435,
+                    -7.417960766340869
+                  ],
+                  [
+                    109.25310891100236,
+                    -7.417946559721912
+                  ],
+                  [
+                    109.25302653350741,
+                    -7.4179288014471325
+                  ],
+                  [
+                    109.25300862535641,
+                    -7.417893284897232
+                  ],
+                  [
+                    109.2529047580789,
+                    -7.417882629930986
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 117
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Nani Bakery"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24618606135255,
+                    -7.417126706714399
+                  ],
+                  [
+                    109.24617531646129,
+                    -7.417215498240196
+                  ],
+                  [
+                    109.24635797960411,
+                    -7.417226153221748
+                  ],
+                  [
+                    109.24635081634261,
+                    -7.417137361698877
+                  ],
+                  [
+                    109.24618606135255,
+                    -7.417126706714399
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 118
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Mushola Nurul Hidayah"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24585706868214,
+                    -7.417547470197363
+                  ],
+                  [
+                    109.24585348705227,
+                    -7.417614951694077
+                  ],
+                  [
+                    109.24596451758953,
+                    -7.41763981329521
+                  ],
+                  [
+                    109.24596093595801,
+                    -7.417547470197363
+                  ],
+                  [
+                    109.24585706868214,
+                    -7.417547470197363
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 119
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Masjid ma'unatul hajim"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24680654582545,
+                    -7.418197423017645
+                  ],
+                  [
+                    109.24680296419382,
+                    -7.418357247361925
+                  ],
+                  [
+                    109.24701786200865,
+                    -7.418375005618529
+                  ],
+                  [
+                    109.24701786200865,
+                    -7.41821873293371
+                  ],
+                  [
+                    109.24680654582545,
+                    -7.418197423017645
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 120
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Axel Fitness Center"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24526286319013,
+                    -7.418701757417509
+                  ],
+                  [
+                    109.24524137340939,
+                    -7.418872236520272
+                  ],
+                  [
+                    109.24545627122245,
+                    -7.418900649697946
+                  ],
+                  [
+                    109.24547059774346,
+                    -7.418733722254217
+                  ],
+                  [
+                    109.24526286319013,
+                    -7.418701757417509
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 121
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "King's Bike"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24238643404726,
+                    -7.416774219594828
+                  ],
+                  [
+                    109.24238285241739,
+                    -7.4169624577587285
+                  ],
+                  [
+                    109.24247955643352,
+                    -7.416973112746376
+                  ],
+                  [
+                    109.24250462784585,
+                    -7.416774219594828
+                  ],
+                  [
+                    109.24238643404726,
+                    -7.416774219594828
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 122
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "I pras NET Hospot"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24597140683358,
+                    -7.412673793859426
+                  ],
+                  [
+                    109.24584246814533,
+                    -7.412645380280722
+                  ],
+                  [
+                    109.24584246814533,
+                    -7.412805206639874
+                  ],
+                  [
+                    109.2459749884651,
+                    -7.412815861728959
+                  ],
+                  [
+                    109.24597140683358,
+                    -7.412673793859426
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 123
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Karita"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24502227481958,
+                    -7.412549484436553
+                  ],
+                  [
+                    109.24500794829845,
+                    -7.412620518396622
+                  ],
+                  [
+                    109.24515121350777,
+                    -7.412645380280722
+                  ],
+                  [
+                    109.24514405024809,
+                    -7.412553036135293
+                  ],
+                  [
+                    109.24502227481958,
+                    -7.412549484436553
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 124
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Hangout Cafe"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24488617287,
+                    -7.412538829341813
+                  ],
+                  [
+                    109.24487184634887,
+                    -7.412698655740513
+                  ],
+                  [
+                    109.24507958090402,
+                    -7.412702207437164
+                  ],
+                  [
+                    109.24506525438295,
+                    -7.412634725187473
+                  ],
+                  [
+                    109.24500078503883,
+                    -7.412634725187473
+                  ],
+                  [
+                    109.24501511155984,
+                    -7.412542381039785
+                  ],
+                  [
+                    109.24488617287,
+                    -7.412538829341813
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 125
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "SDN 1 Bancarkembar"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24591385242445,
+                    -7.410683637907184
+                  ],
+                  [
+                    109.24590489834986,
+                    -7.41100861955843
+                  ],
+                  [
+                    109.2462290358871,
+                    -7.411010395413598
+                  ],
+                  [
+                    109.24623261751685,
+                    -7.410699620616853
+                  ],
+                  [
+                    109.24591385242445,
+                    -7.410683637907184
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 126
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "SDN 1 Purwokerto Lor"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25014451739361,
+                    -7.417477575260321
+                  ],
+                  [
+                    109.25012430814564,
+                    -7.417485090311104
+                  ],
+                  [
+                    109.25012936045738,
+                    -7.4175777759215435
+                  ],
+                  [
+                    109.25014451739361,
+                    -7.417595311035441
+                  ],
+                  [
+                    109.25041481609998,
+                    -7.417610341131663
+                  ],
+                  [
+                    109.25040723763118,
+                    -7.417635391291213
+                  ],
+                  [
+                    109.25049312693983,
+                    -7.417645411354869
+                  ],
+                  [
+                    109.25050070540857,
+                    -7.417497615394652
+                  ],
+                  [
+                    109.25043755150506,
+                    -7.417490100344111
+                  ],
+                  [
+                    109.25044007766093,
+                    -7.417520160544356
+                  ],
+                  [
+                    109.25041734225579,
+                    -7.417525170576894
+                  ],
+                  [
+                    109.25041481609998,
+                    -7.4175026254275025
+                  ],
+                  [
+                    109.25014451739361,
+                    -7.417477575260321
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 127
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Iga Bakar Mas Giri"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25329678899396,
+                    -7.417323948210026
+                  ],
+                  [
+                    109.25328415821349,
+                    -7.41739158368236
+                  ],
+                  [
+                    109.25328163205768,
+                    -7.417456714127681
+                  ],
+                  [
+                    109.25354435229525,
+                    -7.417481764295999
+                  ],
+                  [
+                    109.25354687845112,
+                    -7.4173515034031965
+                  ],
+                  [
+                    109.25329678899396,
+                    -7.417323948210026
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 128
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Salsabila Boutique"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25353601914316,
+                    -7.417245636170875
+                  ],
+                  [
+                    109.25354387440188,
+                    -7.417339110515471
+                  ],
+                  [
+                    109.25358838753988,
+                    -7.417349496553086
+                  ],
+                  [
+                    109.25359624280026,
+                    -7.417263811739176
+                  ],
+                  [
+                    109.25355958492105,
+                    -7.417245636170875
+                  ],
+                  [
+                    109.25353601914316,
+                    -7.417245636170875
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 129
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Bebek Goreng H.Slamet"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25361893577173,
+                    -7.417285449319962
+                  ],
+                  [
+                    109.25360322525256,
+                    -7.417434315846634
+                  ],
+                  [
+                    109.25371669011298,
+                    -7.4174447018819905
+                  ],
+                  [
+                    109.25372978221259,
+                    -7.417294969855774
+                  ],
+                  [
+                    109.25361893577173,
+                    -7.417285449319962
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 130
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Mister Burger"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25157750632002,
+                    -7.417191243784359
+                  ],
+                  [
+                    109.25155817651097,
+                    -7.417315098970263
+                  ],
+                  [
+                    109.25162508739078,
+                    -7.417331318098732
+                  ],
+                  [
+                    109.25164441719988,
+                    -7.417200090584913
+                  ],
+                  [
+                    109.25157750632002,
+                    -7.417191243784359
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 131
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "RM Lestario Mukti"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25166374701041,
+                    -7.417191243784359
+                  ],
+                  [
+                    109.25165036483446,
+                    -7.417307726638171
+                  ],
+                  [
+                    109.25180946403782,
+                    -7.417318047902484
+                  ],
+                  [
+                    109.25181541167234,
+                    -7.41737702655017
+                  ],
+                  [
+                    109.25184068911602,
+                    -7.4173711286850335
+                  ],
+                  [
+                    109.25183920220627,
+                    -7.417323945768359
+                  ],
+                  [
+                    109.2518882701853,
+                    -7.417323945768359
+                  ],
+                  [
+                    109.25189570472816,
+                    -7.417207462918853
+                  ],
+                  [
+                    109.25166374701041,
+                    -7.417191243784359
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 132
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Champion Cafe and Resto"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24991850555097,
+                    -7.41742362953768
+                  ],
+                  [
+                    109.24989322810734,
+                    -7.4176315291847175
+                  ],
+                  [
+                    109.2501058560145,
+                    -7.417661018487848
+                  ],
+                  [
+                    109.25012518582514,
+                    -7.41753716339926
+                  ],
+                  [
+                    109.25006124876182,
+                    -7.417525367674656
+                  ],
+                  [
+                    109.2500731440295,
+                    -7.417444272060692
+                  ],
+                  [
+                    109.24991850555097,
+                    -7.41742362953768
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 133
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Satria Stadium"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25010219733468,
+                    -7.415435771400425
+                  ],
+                  [
+                    109.25001744355262,
+                    -7.416167109193026
+                  ],
+                  [
+                    109.25015423913027,
+                    -7.416178904954094
+                  ],
+                  [
+                    109.25023750600263,
+                    -7.415447567181005
+                  ],
+                  [
+                    109.25010219733468,
+                    -7.415435771400425
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 134
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Satria Martial Arts Center"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.24944294562954,
+                    -7.415108221967344
+                  ],
+                  [
+                    109.24940309405491,
+                    -7.415330512369863
+                  ],
+                  [
+                    109.24962891965049,
+                    -7.415373323841905
+                  ],
+                  [
+                    109.2496654502624,
+                    -7.415141153885472
+                  ],
+                  [
+                    109.24944294562954,
+                    -7.415108221967344
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 135
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Satria Tennis Courts"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25025653241647,
+                    -7.412867038449889
+                  ],
+                  [
+                    109.25020626247607,
+                    -7.4131903066971745
+                  ],
+                  [
+                    109.25068458857407,
+                    -7.413259794232843
+                  ],
+                  [
+                    109.25073028851892,
+                    -7.412939547235396
+                  ],
+                  [
+                    109.25025653241647,
+                    -7.412867038449889
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 136
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Jurusan Perikanan dan Kelautan FST Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25123790366877,
+                    -7.409616010577423
+                  ],
+                  [
+                    109.25127930816404,
+                    -7.409737025820462
+                  ],
+                  [
+                    109.25159746902585,
+                    -7.40966139129759
+                  ],
+                  [
+                    109.25156042289808,
+                    -7.4095317320850285
+                  ],
+                  [
+                    109.25123790366877,
+                    -7.409616010577423
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 137
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Jurusan Keperawatan FKIK Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25191998825517,
+                    -7.409229193774678
+                  ],
+                  [
+                    109.25193306335763,
+                    -7.409304828371731
+                  ],
+                  [
+                    109.25190691315066,
+                    -7.409313472324925
+                  ],
+                  [
+                    109.25194613846219,
+                    -7.409438809625868
+                  ],
+                  [
+                    109.25234928750046,
+                    -7.409354531099638
+                  ],
+                  [
+                    109.25230570381933,
+                    -7.409220549819807
+                  ],
+                  [
+                    109.25227301605901,
+                    -7.409216227842833
+                  ],
+                  [
+                    109.25223814911709,
+                    -7.409140593229495
+                  ],
+                  [
+                    109.25191998825517,
+                    -7.409229193774678
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 138
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Jurusan Gizi FKIK Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25246696343504,
+                    -7.4095555029439595
+                  ],
+                  [
+                    109.25258246018586,
+                    -7.409992022116214
+                  ],
+                  [
+                    109.25271539040875,
+                    -7.409959607341477
+                  ],
+                  [
+                    109.25270231530419,
+                    -7.40991422665202
+                  ],
+                  [
+                    109.25272192795995,
+                    -7.409901260740355
+                  ],
+                  [
+                    109.2526260438649,
+                    -7.409538215046865
+                  ],
+                  [
+                    109.25258681855337,
+                    -7.409529571098048
+                  ],
+                  [
+                    109.25257810181841,
+                    -7.409512283199987
+                  ],
+                  [
+                    109.25246696343504,
+                    -7.4095555029439595
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 139
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Jurusan Kesehatan Masyarakat FKIK Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25201081867579,
+                    -7.4096700825763975
+                  ],
+                  [
+                    109.25203696888275,
+                    -7.409760844000914
+                  ],
+                  [
+                    109.25201517704323,
+                    -7.409769487945184
+                  ],
+                  [
+                    109.25206311908971,
+                    -7.409976942554621
+                  ],
+                  [
+                    109.25208491093133,
+                    -7.409970459599208
+                  ],
+                  [
+                    109.2521197778733,
+                    -7.410072025884517
+                  ],
+                  [
+                    109.25224399136124,
+                    -7.4100482550534394
+                  ],
+                  [
+                    109.25213503216156,
+                    -7.409635506790494
+                  ],
+                  [
+                    109.25201081867579,
+                    -7.4096700825763975
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 140
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Jurusan Kedokteran Gigi FKIK Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25199371884935,
+                    -7.410414343904563
+                  ],
+                  [
+                    109.25203512334673,
+                    -7.410563451696845
+                  ],
+                  [
+                    109.25255812750117,
+                    -7.410422987836029
+                  ],
+                  [
+                    109.2525101854547,
+                    -7.410280362946011
+                  ],
+                  [
+                    109.25199371884935,
+                    -7.410414343904563
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 141
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Farmasi Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25201986905842,
+                    -7.410766583969604
+                  ],
+                  [
+                    109.25211793233728,
+                    -7.411103696898579
+                  ],
+                  [
+                    109.252279191953,
+                    -7.411060477306492
+                  ],
+                  [
+                    109.25216805356962,
+                    -7.410721203364375
+                  ],
+                  [
+                    109.25201986905842,
+                    -7.410766583969604
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 142
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "RSGMP Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25329193145666,
+                    -7.4102911678693175
+                  ],
+                  [
+                    109.25332026084737,
+                    -7.410574256612179
+                  ],
+                  [
+                    109.25338563636802,
+                    -7.410574256612179
+                  ],
+                  [
+                    109.25340524902379,
+                    -7.410669339813182
+                  ],
+                  [
+                    109.25345101188651,
+                    -7.410669339813182
+                  ],
+                  [
+                    109.25345972862357,
+                    -7.410770905937355
+                  ],
+                  [
+                    109.25341396575874,
+                    -7.410781710842656
+                  ],
+                  [
+                    109.2534357575982,
+                    -7.410937301451895
+                  ],
+                  [
+                    109.25356650863733,
+                    -7.410920013608973
+                  ],
+                  [
+                    109.25355779190244,
+                    -7.410824930462127
+                  ],
+                  [
+                    109.25362316742087,
+                    -7.410824930462127
+                  ],
+                  [
+                    109.25362970497423,
+                    -7.4109070477259
+                  ],
+                  [
+                    109.25370379722989,
+                    -7.410896242823668
+                  ],
+                  [
+                    109.25369508049278,
+                    -7.410829252423312
+                  ],
+                  [
+                    109.25378660622044,
+                    -7.410805481634114
+                  ],
+                  [
+                    109.25377788948327,
+                    -7.410703915517942
+                  ],
+                  [
+                    109.25370815559734,
+                    -7.410703915517942
+                  ],
+                  [
+                    109.25369290130902,
+                    -7.410537519915266
+                  ],
+                  [
+                    109.25377135193207,
+                    -7.410528875986074
+                  ],
+                  [
+                    109.25375609764382,
+                    -7.410418665874687
+                  ],
+                  [
+                    109.25368636375782,
+                    -7.41042298784096
+                  ],
+                  [
+                    109.253658034365,
+                    -7.41023714327909
+                  ],
+                  [
+                    109.25329193145666,
+                    -7.4102911678693175
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 143
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Lab Bersama MIPA FST Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25585502135579,
+                    -7.408373308676929
+                  ],
+                  [
+                    109.25592039687643,
+                    -7.408654237660826
+                  ],
+                  [
+                    109.25589860503692,
+                    -7.408667203609184
+                  ],
+                  [
+                    109.25588552993241,
+                    -7.4086326277446375
+                  ],
+                  [
+                    109.25582015441177,
+                    -7.408591568902693
+                  ],
+                  [
+                    109.25566543234936,
+                    -7.408649915677273
+                  ],
+                  [
+                    109.25563710295864,
+                    -7.408706101453106
+                  ],
+                  [
+                    109.25568504500512,
+                    -7.408857370813848
+                  ],
+                  [
+                    109.25572862868626,
+                    -7.408889785670695
+                  ],
+                  [
+                    109.25589642585106,
+                    -7.408844404871061
+                  ],
+                  [
+                    109.25592475524388,
+                    -7.40877957514931
+                  ],
+                  [
+                    109.25592039687643,
+                    -7.4087363553291965
+                  ],
+                  [
+                    109.2559443678997,
+                    -7.408725550373788
+                  ],
+                  [
+                    109.2559465470834,
+                    -7.408751482267007
+                  ],
+                  [
+                    109.25612088180156,
+                    -7.408701779471087
+                  ],
+                  [
+                    109.25602063933894,
+                    -7.408323605837296
+                  ],
+                  [
+                    109.25585502135579,
+                    -7.408373308676929
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 144
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Lembaga Penelitian dan Pengabdian Masyarakat Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25205896699424,
+                    -7.406891386561398
+                  ],
+                  [
+                    109.25207422131774,
+                    -7.406977826584523
+                  ],
+                  [
+                    109.25198705395763,
+                    -7.407001597580205
+                  ],
+                  [
+                    109.25200448742959,
+                    -7.407075071560612
+                  ],
+                  [
+                    109.25195436619941,
+                    -7.407094520553244
+                  ],
+                  [
+                    109.25198705395763,
+                    -7.4072285024794695
+                  ],
+                  [
+                    109.25204807111078,
+                    -7.4072155364887635
+                  ],
+                  [
+                    109.25207857968525,
+                    -7.407301976422062
+                  ],
+                  [
+                    109.25213741765253,
+                    -7.40728901043353
+                  ],
+                  [
+                    109.25218100133367,
+                    -7.407416509307637
+                  ],
+                  [
+                    109.25235315686803,
+                    -7.407377611349887
+                  ],
+                  [
+                    109.25231611074031,
+                    -7.407250112464524
+                  ],
+                  [
+                    109.25239020295851,
+                    -7.407219858460138
+                  ],
+                  [
+                    109.25236841111894,
+                    -7.40714206250658
+                  ],
+                  [
+                    109.25241853235138,
+                    -7.407129096513344
+                  ],
+                  [
+                    109.25240109887932,
+                    -7.40709019853017
+                  ],
+                  [
+                    109.25243596582334,
+                    -7.407075071535374
+                  ],
+                  [
+                    109.25242071153514,
+                    -7.407034012548337
+                  ],
+                  [
+                    109.25239456132812,
+                    -7.4070383345466695
+                  ],
+                  [
+                    109.25236841111894,
+                    -7.40698863155761
+                  ],
+                  [
+                    109.2523095731517,
+                    -7.407003758554339
+                  ],
+                  [
+                    109.2522921396797,
+                    -7.40691515756275
+                  ],
+                  [
+                    109.25218971803338,
+                    -7.406938928561829
+                  ],
+                  [
+                    109.25216792619386,
+                    -7.4068611325586176
+                  ],
+                  [
+                    109.25205896699424,
+                    -7.406891386561398
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 145
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Asrama Mahasiswa Unsoed"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.25088807762972,
+                    -7.40674571911083
+                  ],
+                  [
+                    109.2509185862063,
+                    -7.406851608139675
+                  ],
+                  [
+                    109.25095345315037,
+                    -7.406938048145392
+                  ],
+                  [
+                    109.25150260751388,
+                    -7.406812710132101
+                  ],
+                  [
+                    109.2514459487303,
+                    -7.406596610026654
+                  ],
+                  [
+                    109.25088807762972,
+                    -7.40674571911083
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 146
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Kepolisian Resort Banyumas"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23168633608748,
+                    -7.403661153740202
+                  ],
+                  [
+                    109.23165248974618,
+                    -7.404191991356242
+                  ],
+                  [
+                    109.23203290653817,
+                    -7.404205464383637
+                  ],
+                  [
+                    109.23204377558943,
+                    -7.404035704207232
+                  ],
+                  [
+                    109.23183454635341,
+                    -7.404024925780973
+                  ],
+                  [
+                    109.23184541540468,
+                    -7.403830914064784
+                  ],
+                  [
+                    109.23203142844574,
+                    -7.40384169249441
+                  ],
+                  [
+                    109.23204229751559,
+                    -7.403696183653139
+                  ],
+                  [
+                    109.23168633608748,
+                    -7.403661153740202
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 147
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Nasi Goreng Pokemon"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23134261353584,
+                    -7.405383358404563
+                  ],
+                  [
+                    109.2313480480608,
+                    -7.40566629113151
+                  ],
+                  [
+                    109.23153553919428,
+                    -7.40566629113151
+                  ],
+                  [
+                    109.23153553919428,
+                    -7.405396831395478
+                  ],
+                  [
+                    109.23134261353584,
+                    -7.405383358404563
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 148
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Pasar Ikan"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23130144653771,
+                    -7.407279766763182
+                  ],
+                  [
+                    109.23130263534046,
+                    -7.407414496076896
+                  ],
+                  [
+                    109.23152154482608,
+                    -7.407436052763387
+                  ],
+                  [
+                    109.23154328292776,
+                    -7.407368688113607
+                  ],
+                  [
+                    109.231502523985,
+                    -7.4073606043561
+                  ],
+                  [
+                    109.23149437219752,
+                    -7.407287850522195
+                  ],
+                  [
+                    109.23130144653771,
+                    -7.407279766763182
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 149
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "SDN 05 Purwanegara"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2324955145587,
+                    -7.40718006829988
+                  ],
+                  [
+                    109.232454755616,
+                    -7.407371383955024
+                  ],
+                  [
+                    109.2327455027363,
+                    -7.40740371898751
+                  ],
+                  [
+                    109.2327645235764,
+                    -7.407290546364081
+                  ],
+                  [
+                    109.23254170802653,
+                    -7.407263600497572
+                  ],
+                  [
+                    109.2325580116028,
+                    -7.40718006829988
+                  ],
+                  [
+                    109.2324955145587,
+                    -7.40718006829988
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 150
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Rumah Futsal"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23464947976373,
+                    -7.40800333005356
+                  ],
+                  [
+                    109.23462502439861,
+                    -7.4081892561896865
+                  ],
+                  [
+                    109.23490490246752,
+                    -7.408213507418907
+                  ],
+                  [
+                    109.23492392330633,
+                    -7.408032970456631
+                  ],
+                  [
+                    109.23464947976373,
+                    -7.40800333005356
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 151
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Mall Pelayanan Publik Kabupaten Banyumas"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23897210086193,
+                    -7.416548835262702
+                  ],
+                  [
+                    109.23889330024025,
+                    -7.416944930989644
+                  ],
+                  [
+                    109.23922480630324,
+                    -7.416988043428631
+                  ],
+                  [
+                    109.23926556524464,
+                    -7.416586558680308
+                  ],
+                  [
+                    109.23897210086193,
+                    -7.416548835262702
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 152
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Furama Restaurant"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2400175799117,
+                    -7.415314719021936
+                  ],
+                  [
+                    109.23993334476495,
+                    -7.416074577946887
+                  ],
+                  [
+                    109.24014257400103,
+                    -7.416096134209539
+                  ],
+                  [
+                    109.24022409188524,
+                    -7.415338969858908
+                  ],
+                  [
+                    109.2400175799117,
+                    -7.415314719021936
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 153
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "TK Sokanegara"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23521047372225,
+                    -7.416286983333023
+                  ],
+                  [
+                    109.23518478120883,
+                    -7.416451607691599
+                  ],
+                  [
+                    109.23526185875107,
+                    -7.416473165638152
+                  ],
+                  [
+                    109.23562353030013,
+                    -7.416533919847765
+                  ],
+                  [
+                    109.23565119916259,
+                    -7.416379094588663
+                  ],
+                  [
+                    109.23521047372225,
+                    -7.416286983333023
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 154
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "SMA Bruderan Purwokerto"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23180812197495,
+                    -7.4189755610453005
+                  ],
+                  [
+                    109.23174685521087,
+                    -7.4192048578405405
+                  ],
+                  [
+                    109.23232592495958,
+                    -7.419375360509207
+                  ],
+                  [
+                    109.23235359382005,
+                    -7.419271491074994
+                  ],
+                  [
+                    109.2320887632876,
+                    -7.419185259828808
+                  ],
+                  [
+                    109.23212038484417,
+                    -7.419067671738219
+                  ],
+                  [
+                    109.23180812197495,
+                    -7.4189755610453005
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 155
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Puwokerto Roman Catholic Cathedral"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.23270974075291,
+                    -7.419383606516902
+                  ],
+                  [
+                    109.23269446972807,
+                    -7.419431764011563
+                  ],
+                  [
+                    109.23253216599812,
+                    -7.41938499371679
+                  ],
+                  [
+                    109.23244338447142,
+                    -7.419693127331669
+                  ],
+                  [
+                    109.2329830213942,
+                    -7.41984443126708
+                  ],
+                  [
+                    109.23302325052043,
+                    -7.41973163241498
+                  ],
+                  [
+                    109.2330870622427,
+                    -7.4197467639704655
+                  ],
+                  [
+                    109.23310787041345,
+                    -7.419665603807914
+                  ],
+                  [
+                    109.23305793080465,
+                    -7.419649096653615
+                  ],
+                  [
+                    109.23309677272243,
+                    -7.419495029857686
+                  ],
+                  [
+                    109.23270974075291,
+                    -7.419383606516902
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 156
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Masjid Jendral Soedirman "
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2345301054828,
+                    -7.420420758847214
+                  ],
+                  [
+                    109.23439504027795,
+                    -7.420549263128237
+                  ],
+                  [
+                    109.23405737726864,
+                    -7.420703106232935
+                  ],
+                  [
+                    109.23496267917596,
+                    -7.420943825335641
+                  ],
+                  [
+                    109.23506671588791,
+                    -7.420543833371269
+                  ],
+                  [
+                    109.2345301054828,
+                    -7.420420758847214
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 157
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "name": "Bank Indonesia"
+            },
+            "geometry": {
+              "coordinates": [
+                [
+                  [
+                    109.2378598550635,
+                    -7.4219639685071
+                  ],
+                  [
+                    109.23778683293682,
+                    -7.422278500757486
+                  ],
+                  [
+                    109.2380789214481,
+                    -7.422344122565917
+                  ],
+                  [
+                    109.23815422551831,
+                    -7.422034116006728
+                  ],
+                  [
+                    109.2378598550635,
+                    -7.4219639685071
+                  ]
+                ]
+              ],
+              "type": "Polygon"
+            },
+            "id": 158
+          }
+        ]
+      }
+  
+
